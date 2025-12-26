@@ -1,4 +1,4 @@
-Структура проекта:
+запуск: https://app-v2-h7wt.onrender.com/
 
 
 
